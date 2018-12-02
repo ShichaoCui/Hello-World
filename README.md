@@ -1,2 +1,8 @@
 # hellow-word
-just a repository
+//just a repository
+if(){
+  digitalWrite();
+}
+else{
+  analogWrite();
+}
