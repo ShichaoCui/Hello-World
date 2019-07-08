@@ -1,4 +1,4 @@
-# hellow-word
+# hellow-world
 //just a repository
 if(){
   digitalWrite();
