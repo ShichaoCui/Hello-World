@@ -45,11 +45,13 @@ int min(int score[])
     printf("最低分为%d。\n",min);
     return min;
 }
+/*
 int aver(int score[10],int sum)
 {
     int aver = sum/10;
     printf("平均分为%d。\n\n",aver);
 }
+*/
 
 int rank(int score[10])
 {
@@ -75,7 +77,7 @@ int main()
     int Sum = sum(score);
     max(score);
     min(score);
-    aver(score,Sum);
+    //aver(score,Sum);
     rank(score);
     return 0;
 }
